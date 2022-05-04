@@ -1,6 +1,5 @@
-# spcc_practical
+# System Programming and Compiler Construction
 
-For practical exams
 ---
 ## Index:
 
