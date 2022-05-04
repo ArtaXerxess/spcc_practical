@@ -18,5 +18,13 @@ now lets code
 
 ---
 ## Results
+
+### input.txt
+
+![image](https://user-images.githubusercontent.com/74452252/166669686-974c8c84-946a-4f15-896b-7998f30a0feb.png)
+
+
+### output
+
 ![](output.png)
 ---
